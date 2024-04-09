@@ -26,9 +26,9 @@
 ### Полезные ссылки:
 Видео по авторизации: https://www.youtube.com/watch?v=BPFWkVXFgbo
 
-Получение токена: https://accounts.google.com/ServiceLogin?continue=https://accounts.google.com/o/oauth2/auth?scope%3Dhttps://www.googleapis.com/auth/youtube.readonly%26response_type%3Dcode%26access_type%3Doffline%26redirect_uri%3Dhttp%3A//127.0.0.1%3A9004%26client_id%3D503657927291-qv10vt7urocvh3aehsogsmv7id6fkj7r.apps.googleusercontent.com%26from_login%3D1
+Получение токена: https://accounts.google.com/ServiceLogin?continue=https://accounts.google.com/o/oauth2/auth?scope%3Dhttps://www.googleapis.com/auth/youtube.readonly%26response_type%3Dcode%26access_type%3Doffline%26redirect_uri%3Dhttp%3A//127.0.0.1%3A9004%26client_id%3D468588465628-rb54ab06irarfvf97jnkit1egd63hog1.apps.googleusercontent.com%26from_login%3D1
 
-Справка API YouTube Analytics: https://developers.google.com/youtube/reporting/v1/reports/metrics
+Справка API YouTube Analytics: https://developers.google.com/youtube/reporting/v1/reports/metrics 
 
 
 
