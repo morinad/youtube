@@ -1,4 +1,4 @@
-# Коннектор-функция к YouTube Analytics для Power BI
+# Коннектор-функция к YouTube Analytics для Power BI и Excel
 
 ### Новые видео, статьи и полезности в Telegram-канале: https://t.me/+2kqVrjV5aXs0NTRi
 
